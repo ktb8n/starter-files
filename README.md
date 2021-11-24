@@ -1,4 +1,6 @@
-# Let's Learn Git! Part 1
+# Let's Learn Git! 
+
+## Part 1
 
 Scenario: I download starter files from class, make changes and want to push them to my Git repository.
 
@@ -51,7 +53,7 @@ It's ok! If you initialized a repo in the wrong folder and want any source contr
 
 [What is .git?](https://stackoverflow.com/questions/29217859/what-is-the-git-folder#:~:text=Up%20vote%2028-,The%20.,can%20roll%20back%20to%20history.)
 
-# Let's Learn Git! Part 2
+## Part 2
 
 Scenario: I am starting a new project completely from scratch
 
